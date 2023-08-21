@@ -5,8 +5,8 @@ In this project, I aim to predict the price of bitcoin using sentiment analysis 
 Tools used:
 
 1. Programming Languages - Python and R
-2 .Data Cleaning Library- pandas, numpy, regex-re
-3 .Financial data API- yfinance, coinbase API
+2. Data Cleaning Library- pandas, numpy, regex-re
+3. Financial data API- yfinance, coinbase API
 4 .Dataset- Bitcoin tweets data from Kaggle (https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets)
 5 .Data Visualisation Libraries - Matplotlib, plotly, seaborn
 6 .Sentiment Analysis/ NLP - vader, NLTK
