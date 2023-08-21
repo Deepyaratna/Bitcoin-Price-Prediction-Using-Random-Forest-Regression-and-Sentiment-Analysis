@@ -2,7 +2,8 @@
 
 In this project, I aim to predict the price of bitcoin using sentiment analysis from twitter data and financial features to support the sentiment, using Random Forrest Regression Machine Learning Algorithm.
 
-Tools used: Programming Languages - Python and R
+Tools used:
+Programming Languages - Python and R
 Data Cleaning Library- pandas, numpy, regex-re
 Financial data API- yfinance, coinbase API
 Dataset- Bitcoin tweets data from Kaggle (https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets)
